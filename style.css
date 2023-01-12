@@ -24,6 +24,9 @@ body {
     height: 100vh;
 }
 
+
+
+/* Path: Personal-Web-Site\loader.css */
 .loader {
     position: relative;
     display: flex;
@@ -130,3 +133,4 @@ body {
         padding: 0.5rem 1rem;
     }
 }
+
